@@ -12,6 +12,7 @@ img{
 }
 p{
     /*text-align:center;*/
+    position:relative;
 }
 
 h1{
