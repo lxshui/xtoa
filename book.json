@@ -1,6 +1,7 @@
 {
 
 "styles": { "website": "styles/website.css" },
-"styles": { "website": "styles/style.css" }
+"styles": { "website": "styles/style.css" },
+"javascript": { "website": "js/website.js" }
 
 }
