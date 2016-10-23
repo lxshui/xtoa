@@ -2,6 +2,6 @@
 
 "styles": { "website": "styles/website.css" },
 "styles": { "website": "styles/style.css" },
-"javascript": { "website": "js/website.js" }
+"styles": { "website": "styles/markdown_views.css" }
 
 }
