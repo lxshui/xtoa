@@ -2,6 +2,9 @@
 #使用说明书
 
 <center>
-![](/assets/gxcjhq.jpg)
+-----
+![f](/assets/gxcjhq.jpg)
+
 <img src="/assets/logo.png" />
+
 </center>
