@@ -5,9 +5,8 @@
 }
 
 img{
-    position:absolute;
+    position:relative;
     left:15%;
-    top:0px;
     width:70%;
 }
 p{
