@@ -2,10 +2,8 @@
 #使用说明书
 
 
-     
-![f](/assets/gxcjhq.jpg)
 
-<img src="/assets/logo.png" />
+<img src="/assets/logo.png" alt="创新中心" />
 
 
 sdfsj收到了放假生料带发酵饲料了极大浪费
