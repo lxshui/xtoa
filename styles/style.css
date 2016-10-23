@@ -1,4 +1,10 @@
-img{
+.div-img{
+    width:100%;
+    text-align:center;
+    vertical-align: middle;
+}
+
+.div-img img{
      text-align:center;
      width:70%;
 }
