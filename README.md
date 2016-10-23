@@ -2,5 +2,5 @@
 #使用说明书
 
 <center>
-![创新中心](/assets/logo.png)
+<img src="/assets/logo.png" />
 </center>
