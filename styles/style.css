@@ -5,7 +5,10 @@
 }
 
 img{
-     width:70%;
+    position:absolute;
+    left:15%;
+    top:0px;
+    width:70%;
 }
 p{
     text-align:center;
