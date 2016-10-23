@@ -1,4 +1,4 @@
 #信息与统计学院内部管理系统
 #使用说明书
 
-![创新](/assets/logo.png)
+![创新中心](/assets/logo.png)
