@@ -11,17 +11,13 @@
     "-search",
     "search-pro",
     "splitter",
-    "toc",
+    "toggle-chapters"
     ],
 "pluginsConfig": {
     "search-pro": {
         "cutWordLib": "nodejieba",
         "defineWord" : ["Gitbook Use"]
     },
-    "toc": {
-        "addClass": true,
-        "className": "toc"
-    }
  }
 
 }
