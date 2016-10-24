@@ -77,3 +77,6 @@ blockquote {
     border-bottom-right-radius: 5px!important;
     padding: 15px 20px!important;
 }
+.page-inner{
+    max-width:88%;
+}
