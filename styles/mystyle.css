@@ -62,6 +62,7 @@ blockquote {
     
 }
 blockquote {
+    color:black!important;
     border-left-width: 10px!important;
     background-color: rgba(128,128,128,0.05)!important;
     border-top-right-radius: 5px!important;
