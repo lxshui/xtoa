@@ -17,7 +17,7 @@
     "search-pro": {
         "cutWordLib": "nodejieba",
         "defineWord" : ["Gitbook Use"]
-    },
+    }
  }
 
 }
