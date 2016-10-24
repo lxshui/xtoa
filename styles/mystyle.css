@@ -21,7 +21,7 @@ img:hover{
     left: 10px;
     top:5px;
     z-index: 1100;
-    transition-duration:1s;
+    transition:all 2 ease 0
 }
 p{
     font-size:16px!important;
