@@ -45,15 +45,15 @@ blockquote {
     -webkit-margin-end: 40px;
 }
 blockquote {
-    padding: 10.5px 21px;
-    margin: 0 0 21px;
-    border-left: 5px solid rgba(128,128,128,0.075);
+    padding: 10.5px 21px!important;
+    margin: 0 0 21px!important;
+    border-left: 5px solid rgba(128,128,128,0.075)!important;
     
 }
 blockquote {
-    border-left-width: 10px;
-    background-color: rgba(128,128,128,0.05);
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    padding: 15px 20px;
+    border-left-width: 10px!important;
+    background-color: rgba(128,128,128,0.05)!important;
+    border-top-right-radius: 5px!important;
+    border-bottom-right-radius: 5px!important;
+    padding: 15px 20px!important;
 }
