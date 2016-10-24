@@ -9,14 +9,7 @@
 "plugins": [
     "-sharing",
     "-search",
-    "toc",
     "splitter",
     "toggle-chapters"
-    ],
-"pluginsConfig": {
-    "toc": {
-        "addClass": true,
-        "className": "toc"
-    }
-   }
+    ]
 }
