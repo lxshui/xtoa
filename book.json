@@ -1,7 +1,9 @@
 {
 
-"styles": { "website": "styles/style.css" },
-"styles": { "website": "styles/website.css" },
+"styles": { 
+    "website": "styles/style.css" ,
+    "website": "styles/website.css"
+    },
 "plugins": ["-sharing"]
 
 }
