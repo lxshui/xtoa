@@ -15,6 +15,13 @@ img{
     right:0px;
     width:100%;
 }
+img:hover{
+    position: fixed;
+    width: 120%;
+    left: 0px;
+    top:0px;
+    z-index: 1100;
+}
 p{
     font-size:16px!important;
 }
