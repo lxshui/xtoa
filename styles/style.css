@@ -29,6 +29,9 @@ h1{
 h1,h4{
     text-align:center;
 }
+h1:after{
+    content:"<hr>",
+}
 
 .div-author{
     text-align:right;
