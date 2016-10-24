@@ -3,6 +3,7 @@
 * [首页](README.md)
 * [第一章 普通用户篇](chapter1/README.md)
     * [登录与退出](chapter1/登录与退出.md)
+    * [首页功能介绍](chapter1/首页功能介绍.md)
 * [第二章 管理员篇](chapter2/README.md)
     * [批量导入用户](chapter2/批量导入用户.md)
 
