@@ -26,9 +26,7 @@ img{
     z-index: 1100;
     transition:all 2 ease 0
 }*/
-p{
-    font-size: 2.2rem!important;
-}
+
 hr{
     border-top: 1px solid rgba(128,128,128,0.1)!important;
     width:70%!important;
@@ -82,4 +80,7 @@ blockquote {
 }
 .page-inner{
     max-width:88%;
+}
+.markdown-section{
+    font-size: 2.2rem !important;
 }
