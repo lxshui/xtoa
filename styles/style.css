@@ -17,7 +17,12 @@ img{
 p{
     
 }
-
+hr{
+    border-top: 1px solid rgba(128,128,128,0.1)!important;
+    width:70%!important;
+    height:1px!important;
+    margin-top:20px;
+}
 h1{
     font-size:50px!important;
 }
