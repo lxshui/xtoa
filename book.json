@@ -9,15 +9,14 @@
 "plugins": [
     "-sharing",
     "-search",
-    "search-pro",
+    "toc",
     "splitter",
     "toggle-chapters"
     ],
 "pluginsConfig": {
-    "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["Gitbook Use"]
+    "toc": {
+        "addClass": true,
+        "className": "toc"
     }
- }
-
+   }
 }
