@@ -1,6 +1,6 @@
 {
 
 "styles": { "website": "styles/style.css" },
-"styles": { "website": "styles/markdown_views.css" }
+"styles": { "website": "styles/website.css" }
 
 }
