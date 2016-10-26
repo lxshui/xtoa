@@ -3,7 +3,7 @@
 
 
 
-<img src="/assets/chapter1/main/logo.png" />
+<img src="/assets/chapter1/main/logo.png" class="index-img" />
 
 
 
