@@ -2,7 +2,7 @@
 #使用说明书
 
 
-<style>
+<style type="text/css">
     img{
         width:50%!important;
     }
