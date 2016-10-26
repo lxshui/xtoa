@@ -2,12 +2,6 @@
 #使用说明书
 
 
-<style type="text/css">
-    img{
-        width:50%!important;
-    }
-<style>
-
 
 ![class="sd"](/assets/chapter1/main/logo.png)
 
