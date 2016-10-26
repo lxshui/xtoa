@@ -2,6 +2,12 @@
 #使用说明书
 
 
+<style>
+    img{
+        width:50%!important;
+    }
+<style>
+
 
 ![](/assets/chapter1/main/logo.png)
 
