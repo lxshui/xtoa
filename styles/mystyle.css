@@ -89,5 +89,7 @@ blockquote {
 
 .index-img{
     width:50%;
-
+    position:relative;
+    left:25%;
+    right:25%;
 }
