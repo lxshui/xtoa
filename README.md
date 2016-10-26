@@ -9,7 +9,7 @@
 <style>
 
 
-![](/assets/chapter1/main/logo.png)
+![class="sd"](/assets/chapter1/main/logo.png)
 
 
 
