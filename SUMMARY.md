@@ -8,6 +8,7 @@
     * [通知](chapter1/通知.md)
     * [任务](chapter1/任务.md)
     * [出差](chapter1/出差.md)
+    * [课时](chapter1/课时.md)
 * [第二章 管理员篇](chapter2/README.md)
     * [批量导入用户](chapter2/批量导入用户.md)
 * [微信](weixin/微信.md)
