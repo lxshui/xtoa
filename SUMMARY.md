@@ -15,6 +15,7 @@
     * [批量导入用户](chapter2/批量导入用户.md)
     * [出差](chapter2/出差.md)
     * [课时](chapter2/课时.md)
+    * [教学成果](chapter2/教学成果.md)
 * [微信](weixin/微信.md)
     * [会议](weixin/会议.md)
     * [如何绑定系统账号](weixin/如何绑定系统账号.md)
