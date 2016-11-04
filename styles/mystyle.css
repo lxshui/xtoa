@@ -9,6 +9,9 @@
     vertical-align: middle;
 }
 
+a{
+  color:red !important;
+}
 
 img{
     position:relative;
