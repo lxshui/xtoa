@@ -17,7 +17,7 @@
     * [教学成果](chapter2/教学成果.md)
     * [学院部门工作组](chapter2/学院部门工作组.md)
     * [用户管理](chapter2/用户管理.md)
-    * 权限管理
+    * [权限管理](chapter2/权限管理.md)
 * [微信](weixin/微信.md)
     * [会议](weixin/会议.md)
     * [如何绑定系统账号](weixin/如何绑定系统账号.md)
