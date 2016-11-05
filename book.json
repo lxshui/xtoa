@@ -6,7 +6,7 @@
  "website": "styles/mystyle.css"
  },
 "plugins": [
-    "sharing",
+    "-sharing",
     "splitter",
     "toggle-chapters"
   ]
