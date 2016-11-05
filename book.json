@@ -13,9 +13,9 @@
     "toggle-chapters"
     ],
  "pluginsConfig":{
-    "search-pro":[
-        "cutWordLib":"nodejieba", 
-        "defineWord":"Gitbook Use"
+"search-pro":[
+"cutWordLib":"nodejieba", 
+"defineWord":"Gitbook Use"
       ]
     }
 }
