@@ -12,10 +12,10 @@
     "splitter",
     "toggle-chapters"
     ],
- "pluginsConfig":[
+ "pluginsConfig":{
     "search-pro":[
         "cutWordLib":"nodejieba", 
         "defineWord":"Gitbook Use"
       ]
-    ]
+    }
 }
