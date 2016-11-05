@@ -82,7 +82,7 @@ blockquote {
     padding: 15px 20px!important;
 }
 .page-inner{
-    max-width:88%;
+    max-width:88%!important;
 }
 .markdown-section{
     font-size: 2rem !important;
