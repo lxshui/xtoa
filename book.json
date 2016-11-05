@@ -13,10 +13,10 @@
     "toggle-chapters"
   ],
   "pluginsConfig":{
-     "search-pro":[
+     "search-pro":{
        "cutWordLib":"nodejieba",
        "defineWord":"Gitbook Use"
-     ]
+     }
  }
 
 }
