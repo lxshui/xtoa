@@ -3,6 +3,9 @@
     "website": "styles/website.css"
     },
 "styles": {
+     "website": "styles/style.css"
+ },
+"styles": {
      "website": "styles/mystyle.css"
  },
 "plugins": [
