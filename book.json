@@ -14,7 +14,7 @@
     ],
  "pluginsConfig": {
     "search-pro": {
-        "cutWordLib": "nodejieba",
+        "cutWordLib": "nodejieba", 
         "defineWord" : "Gitbook Use"
     }
 }
