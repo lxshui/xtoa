@@ -8,6 +8,7 @@
 "plugins": [
     "-sharing",
     "-search",
+    "nodejieba",
     "search-pro",
     "splitter",
     "toggle-chapters"
