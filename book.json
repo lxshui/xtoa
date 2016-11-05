@@ -8,7 +8,6 @@
 "plugins": [
     "-sharing",
     "-search",
-    "search-pro",
     "splitter",
     "toggle-chapters"
   ],
