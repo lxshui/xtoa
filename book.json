@@ -15,7 +15,7 @@
   "pluginsConfig":{
      "search-pro":{
        "cutWordLib":"nodejieba",
-       "defineWord":"Gitbook Use"
+       "defineWord":["小需求","基础建设"]
      }
  }
 
