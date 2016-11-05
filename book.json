@@ -3,7 +3,7 @@
     "website": "styles/website.css"
     },
 "styles": {
- "website": "styles/mystyle.css"
+     "website": "styles/mystyle.css"
  },
 "plugins": [
     "-sharing",
