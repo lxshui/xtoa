@@ -13,6 +13,11 @@
   color:red !important;
 }
 
+.normal{
+  background: #f6f6f6!important;
+}
+
+
 img{
     position:relative;
     left:0px;
