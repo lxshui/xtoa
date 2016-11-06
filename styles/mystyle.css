@@ -88,6 +88,7 @@ blockquote {
 }
 .page-inner{
     max-width:88%!important;
+    background: #f6f6f6!important;
 }
 .markdown-section{
     font-size: 2rem !important;
